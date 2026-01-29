@@ -1,0 +1,16 @@
+{
+  "name": "Telegram Agent",
+  "nodes": [],
+  "pinData": {},
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "a26b4535-1d97-4b17-9e3c-e8d8068169ef",
+  "meta": {
+    "instanceId": "c9a42e4b44c720ee418192802df01737966e7f174aa3ab1876d969656eb4a691"
+  },
+  "id": "KkWycYurs3mw2Pce",
+  "tags": []
+}
